@@ -4,7 +4,7 @@ This is the main repository for all of the projects in the course
 
 This does not include the sandbox. That can be found [here](https://github.com/bradtraversy/tailwind-sandbox)
 
-- [Course Link]()
+- [Course Link](https://www.udemy.com/course/tailwind-from-scratch/)
 - [Course Info Website](https://tailwindfromscratch.com)
 
 |  #  |                                                         Project                                                          |                                           Live Demo                                           |
